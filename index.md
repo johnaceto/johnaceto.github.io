@@ -2,6 +2,7 @@
 
 # John Aceto 
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
+
 <a href="https://github.com/johnaceto"><i class="fab fa-github fa-5x"></i>
 ---
 
