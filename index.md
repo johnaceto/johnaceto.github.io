@@ -1,9 +1,8 @@
 <script src="https://kit.fontawesome.com/aba1d8c3e9.js" crossorigin="anonymous"></script>
 
 # John Aceto 
-<div style="test-align: right">Here is some text</div>
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
-
+<a href="https://github.com/johnaceto"><i class="fab fa-github fa-5x"></i>
 ---
 
 ## About Me
