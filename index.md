@@ -16,4 +16,4 @@ I have a passion for programming and hope to find a job where my programming ski
 The most experience I have had programming was working at ID Tech where I would teach young programmers game development in java, machine learning in Python, basics of javascript, and modding minecraft with Java. I currently work for the school of communication and information at Rutgers as an IT Helpdesk Assistant.
 
 [test link](https://johnaceto.github.io/test/)
-<i class="fab fa-github"></i>
+<a href="https://github.com"><i class="fab fa-github"></i>
