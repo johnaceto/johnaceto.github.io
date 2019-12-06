@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/aba1d8c3e9.js" crossorigin="anonymous"></script>
 
-# John Aceto 
+# John Aceto
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
 
 <a href="https://github.com/johnaceto"><i class="fab fa-github fa-2x"></i></a> <a href="https://www.linkedin.com/in/john-aceto-62030812b"><i class="fab fa-linkedin-in fa-2x"></i></a>
@@ -9,7 +9,7 @@
 
 ## About Me
 
-<img align="left" width="350" height="350" src="https://johnaceto.github.io/assets/img/testme.jpg">
+<img align="left" width="350" height="350" hspace="20" src="https://johnaceto.github.io/assets/img/testme.jpg">
 
 I am a student at Rutgers University studying computer science. I am scheduled to graduate from Rutgers in December of 2020.
 
