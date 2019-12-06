@@ -3,4 +3,12 @@
 
 ---
 
+## About Me
+
+I am a student at Rutgers University studying computer science. I am scheduled to graduate from Rutgers in December of 2020.
+
+I have a passion for programming and hope to find a job where my programming skills can be put to good use. I am proficient in Java, C, and Python and am learning other languages such as Swift.
+
+The most experience I have had programming was working at ID Tech where I would teach young programmers game development in java, machine learning in Python, basics of javascript, and modding minecraft with Java. I currently work for the school of communication and information at Rutgers as an IT Helpdesk Assistant.
+
 [test link](https://johnaceto.github.io/test/)
