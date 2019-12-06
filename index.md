@@ -5,6 +5,8 @@
 
 ## About Me
 
+<img align="left" width="100" height="100" src="https://johnaceto.github.io/assets/img/testme.jpg">
+
 I am a student at Rutgers University studying computer science. I am scheduled to graduate from Rutgers in December of 2020.
 
 I have a passion for programming and hope to find a job where my programming skills can be put to good use. I am proficient in Java, C, and Python and am learning other languages such as Swift.
