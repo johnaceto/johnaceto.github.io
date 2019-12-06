@@ -3,7 +3,7 @@
 # John Aceto 
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
 
-<a href="https://github.com/johnaceto"><i class="fab fa-github fa-5x"></i>
+<a href="https://github.com/johnaceto"><i class="fab fa-github fa-3x"></i><a href="https://www.linkedin.com/in/john-aceto-62030812b"><i class="fab fa-linkedin-in fa-3x"></i>
 ---
 
 ## About Me
