@@ -5,7 +5,7 @@
 
 ## About Me
 
-<img align="left" width="100" height="100" src="https://johnaceto.github.io/assets/img/testme.jpg">
+<img align="left" width="250" height="250" src="https://johnaceto.github.io/assets/img/testme.jpg">
 
 I am a student at Rutgers University studying computer science. I am scheduled to graduate from Rutgers in December of 2020.
 
