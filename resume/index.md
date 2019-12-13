@@ -1,8 +1,8 @@
 <script src="https://kit.fontawesome.com/aba1d8c3e9.js" crossorigin="anonymous"></script>
 
-# Resume
+<h1>Resume</h1>
 
-### [About Me](https://johnaceto.github.io/)
+<h3><a href = "https://johnaceto.github.io/">About Me</a></h3>
 
 ---
 If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" download>here.</a>
