@@ -5,6 +5,6 @@
 <h3><a href = "https://johnaceto.github.io/">About Me</a></h3>
 
 ---
-If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" download>here.</a>
+<p>If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" download>here.</a></p>
 
 <embed src="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" type="application/pdf" width="100%" height="525px" />
