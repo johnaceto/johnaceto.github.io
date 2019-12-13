@@ -4,7 +4,7 @@
 
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
 
-<a href="https://github.com/johnaceto"><i class="fab fa-github fa-2x"></i></a> <a href="https://www.linkedin.com/in/john-aceto-62030812b"><i class="fab fa-linkedin-in fa-2x"></i></a> <a href="https://johnaceto.github.io/resume/"><i class="fas fa-file-pdf fa-2x"></i></a>
+<a href="https://github.com/johnaceto"><i class="fab fa-github fa-2x"></i></a>  <a href="https://www.linkedin.com/in/john-aceto-62030812b"><i class="fab fa-linkedin-in fa-2x"></i></a>  <a href="https://johnaceto.github.io/resume/"><i class="fas fa-file-pdf fa-2x"></i></a>
 
 ---
 
