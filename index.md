@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/aba1d8c3e9.js" crossorigin="anonymous"></script>
 
-# John Aceto
+<h1>John Aceto</h1>
 
 <a href = "mailto: john.aceto@rutgers.edu">john.aceto@rutgers.edu</a>
 
