@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+<h2>About Me</h2>
 
 <img align="left" width="350" height="350" hspace="20" src="https://johnaceto.github.io/assets/img/testme.jpg">
 
