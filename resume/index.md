@@ -7,4 +7,4 @@
 ---
 If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" download>here.</a>
 
-<embed src="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" type="application/pdf" width="100%" height="550px" />
+<embed src="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" type="application/pdf" width="100%" height="525px" />
