@@ -5,6 +5,6 @@
 <h3><a href = "https://johnaceto.github.io/"><i class="fas fa-chevron-circle-left"></i> About Me</a></h3>
 
 ---
-<p>If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" download>here.</a></p>
+<p>If you would like to download this pdf, click <a href ="https://johnaceto.github.io/assets/downloads/ResumeSpring20.pdf" download>here.</a></p>
 
-<embed src="https://johnaceto.github.io/assets/downloads/resume_fall19.pdf" type="application/pdf" width="100%" height="525px" />
+<embed src="https://johnaceto.github.io/assets/downloads/ResumeSpring20.pdf" type="application/pdf" width="100%" height="525px" />
